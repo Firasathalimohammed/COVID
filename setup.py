@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='covid_analysis',
     version='1.0.0',
-    author='Firasath ali mohammes. Afnan faaz mohammed. Abdulsameer mohammed',
+    author='Firasath ali mohammes. Afnan faaz mohammed. Abdul sameer mohammed',
     author_email='fmohamm1@mail.yu.edu. amohamm7@mail.yu.edu. amohamm8@mail.yu.edu',
     description='A package for analyzing COVID-19 data',
     long_description=open('README.md').read(),
